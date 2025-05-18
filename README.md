@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-## Hi, I'm Muhammad Luthfiandra D. W.<br><br>🌱 I’m currently learning MERN
+## Hi, I'm Muhammad Luthfiandra D. W.<br><br>🌱 I’m currently learning MERN & Laravel
 
 ## 🌐 Socials:
 
