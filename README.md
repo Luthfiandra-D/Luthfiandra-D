@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Muhammad Luthfiandra D. W.<br><br>🌱 I’m currently learning Next.JS
 
 ## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/luthfiandra.__]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luthfiandra.__)
 
 # 💻 Tech Stack:
 
